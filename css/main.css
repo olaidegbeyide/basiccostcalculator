@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to right, #093537, #44a08d);
+}
+#first-section{
+    width: 50%;
+    margin:100px auto;
+}
+#first-div h1{
+    font-size: 40px;
+    padding:20px 0px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+span{
+    font-size:20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#price{
+    padding-left: 100px;
+}
+#form-input{
+    height: 35px;
+    margin-top:10px;
+    border: 2px;
+    border-radius:5px ;
+}
+#result-input{
+    height: 35px;
+    margin-top: 10px;
+    border: 2px;
+    border-radius:5px ;
+}
+
+#input-btn{
+    border-radius: 5px;
+    height:35px;
+    width: 75px;
+    font-size:15px;
+
+}
