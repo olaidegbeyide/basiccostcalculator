@@ -46,3 +46,18 @@ span{
     font-size:15px;
 
 }
+
+@media only screen and (max-width:600px){
+    #first-div h1{
+        font-size: 30px;
+        padding-right:10px ;
+    }
+
+#input-btn{
+    border-radius: 2px;
+    width: 82px;
+}
+#price{
+    padding-left: 18px;
+}
+}
